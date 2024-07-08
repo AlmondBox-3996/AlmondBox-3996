@@ -55,7 +55,7 @@
 <div align=center>
   ![](https://github-readme-stats.vercel.app/api?username=AlmondBox-3996&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false)<br/>
   ![](https://github-readme-streak-stats.herokuapp.com/?user=AlmondBox-3996&theme=tokyonight&hide_border=false)<br/>
-  ![](https://github-readme-stats.vercel.app/api/top-langs/?username=AlmondBox-3996&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+  <p><a href="https://github.com/anuraghazra/github-readme-stats" target="blank"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlmondBox-3996&layout=compact&langs_count=10&theme=dracula&custom_title=Top%20Languages" alt="Top Languages" /></a></p>
 </div>
 
 <br/><br/>
