@@ -43,7 +43,7 @@
 <div align="center">
   <h2>Contributions</h2>
   <br>
-  ![snake animation](https://github.com/<seu user name>/<seu user name>/blob/output/github-contribution-grid-snake2.svg)
+  ![snake animation](https://github.com/AlmondBox-3996/AlmondBox-3996/blob/output/github-contribution-grid-snake2.svg)
   <br/><br/><br/>
 </div>
 
