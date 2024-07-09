@@ -43,7 +43,7 @@
 <div align="center">
   <h2>Contributions</h2>
   <br>
-  <img src="https://github.com/AlmondBox-3996/AlmondBox-3996/raw/output/github-contribution-grid-snake-dark.gif" alt="GitHub Contribution Grid Snake">
+  <img src="https://github.com/AlmondBox-3996/AlmondBox-3996/blob/output/github-contribution-grid-snake.svg" alt="Contribution Snake">
   <br/><br/><br/>
 </div>
 
