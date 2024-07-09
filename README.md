@@ -53,7 +53,8 @@
 <h2 align="center">Stats</h2>
 <br>
 <div align=center>
-  <p><a href="https://github.com/anuraghazra/github-readme-stats" target="blank"><img src="https://github-readme-stats.vercel.app/api?username=AlmondBox-3996&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight&custom_title=GitHub%20Stats" alt="GitHub Stats" /></a><a href="https://git.io/streak-stats"><img src="http://github-readme-streak-stats.herokuapp.com?user=AlmondBox-3996&theme=tokyonight" alt="GitHub Streak" /></a></p>
+  <p><a href="https://github.com/anuraghazra/github-readme-stats" target="blank"><img src="https://github-readme-stats.vercel.app/api?username=AlmondBox-3996&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight&custom_title=GitHub%20Stats" alt="GitHub Stats" /></a></p>
+  <p><a href="https://git.io/streak-stats"><img src="http://github-readme-streak-stats.herokuapp.com?user=AlmondBox-3996&theme=tokyonight" alt="GitHub Streak" /></a></p>
   <p><a href="https://github.com/anuraghazra/github-readme-stats" target="blank"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlmondBox-3996&layout=compact&langs_count=10&theme=tokyonight&custom_title=Top%20Languages" alt="Top Languages" /></a></p>
 </div>
 
