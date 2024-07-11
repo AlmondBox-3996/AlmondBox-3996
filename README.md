@@ -43,7 +43,7 @@
 <div align="center">
   <h2>Contributions</h2>
   <br>
-  !<img src="https://github.com/AlmondBox-3996/AlmondBox-3996/blob/output/github-contribution-grid-snake.svg"/>
+  <img src="https://github.com/AlmondBox-3996/AlmondBox-3996/blob/output/github-contribution-grid-snake.svg"/>
   <br/><br/><br/>
 </div>
 
